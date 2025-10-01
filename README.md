@@ -46,5 +46,3 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 4. ER Diyagramını inceleyin  
    - eer.pdf dosyasını açarak tablolar arasındaki ilişkileri görebilirsiniz.  
 
-Kocaeli Üniversitesi – Bilgisayar Mühendisliği  
-E-posta: 230202093@kocaeli.edu.tr  
